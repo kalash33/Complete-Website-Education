@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@700&family=Quintessential&family=Ubuntu:wght@500&display=swap');
 
-/* RESETING ALL VALUES */
+
 
 *{
     margin: 0px;
     padding: 0px;
 }
 
-/* NAVIGATION BAR */
+
 
 .logo{
     display: flex;
@@ -36,9 +36,7 @@
 
 .nav-list{
     width: 50%;
-    /* background-color: #3213b6; */
     display: flex;
-    /* justify-content: center; */
     align-items: center;
 }
 
@@ -63,7 +61,6 @@
 }
 
 .rightNav{
-    /* background-color: greenyellow; */
     width: 50%;
     text-align: right;
     padding: 0px 40px;
